@@ -13,7 +13,7 @@ YAKINDA*
 
 ### 1️⃣ **Depoyu Klonlayın**  
 ```sh
-git clone https://github.com/kullanici/shopify-trendyol-entegrasyon.git
+git clone https://github.com/ibidi/shopify-trendyol-entegrasyon.git
 cd shopify-trendyol-entegrasyon
 ```
 
